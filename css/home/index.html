@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>系统公告</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            background-color: #ffffff;
+            padding: 20px;
+            margin: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            width: 100%;
+        }
+
+        .container h1 {
+            font-size: 1.2em;
+            color: #333333;
+            margin-bottom: 10px;
+        }
+
+        .container p {
+            font-size: 1em;
+            color: #666666;
+            margin-bottom: 15px;
+            line-height: 1.6;
+        }
+
+        .highlight {
+            color: #007bff;
+        }
+
+        .container p:last-child {
+            margin-bottom: 0;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 15px;
+            }
+
+            .container h1 {
+                font-size: 1.1em;
+            }
+
+            .container p {
+                font-size: 0.9em;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>启动脚本前，请先打开 <span class="highlight"><b>无障碍模式</b></span></h1>
+        <p>设置 → 搜索关键词（<span class="highlight"><b>无障碍</b></span>） → 已下载的应用 → 找到脚本对应名称 → 开启</p>
+        <h1>如何解决 <span class="highlight"><b>受限制的设置</b></span></h1>
+        <p>设置 → 应用管理 → 找到对应脚本名称 → 点击右上角三点 → 允许</p>
+        <p>如果没有显示悬浮窗，请尝试重启手机。</p>
+        <p>运行脚本前，请确保手机已开启免打扰，手机通知会影响脚本的点击功能导致无法正常运行，请悉知。</p>
+        <p><b>免责声明：本软件只用于学习用途</b></p>
+    </div>
+</body>
+
+</html>
