@@ -23,7 +23,7 @@ This project features a clean and stylish update log page. It leverages the Layu
 
 2. **Navigate to the Project Directory:**
     ```bash
-    cd version-update-log
+    cd VersionUpdatePage
     ```
 
 3. **Open `index.html` in Your Browser:**
@@ -51,7 +51,7 @@ To deploy this project:
 - [Layui](https://www.layui.com/) - For UI components and layout
 - [Montserrat Font](https://fonts.google.com/specimen/Montserrat) - For typography
 
-## Contact
+## Contact Me
 
 For any questions or suggestions, please reach out to admin@i4.gs or open an issue on this [GitHub Repository](https://github.com/i4GS/VersionUpdatePage).
 
