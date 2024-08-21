@@ -18,7 +18,7 @@ This project features a clean and stylish update log page. It leverages the Layu
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/version-update-log.git
+    git clone https://github.com/i4GS/VersionUpdatePage.git
     ```
 
 2. **Navigate to the Project Directory:**
@@ -27,6 +27,7 @@ This project features a clean and stylish update log page. It leverages the Layu
     ```
 
 3. **Open `index.html` in Your Browser:**
+   
     You can open `index.html` directly in your web browser to view the update log page.
 
 ## Deployment
@@ -34,24 +35,23 @@ This project features a clean and stylish update log page. It leverages the Layu
 To deploy this project:
 
 1. **Prepare Your Hosting Environment:**
+   
     Ensure you have access to a web hosting service or a local server setup.
 
 2. **Upload Files:**
-    Upload `index.html` and `style.css` to your web server.
+   
+    Download the zip file, upload it to your web server, and compress the zip file.
 
 3. **Access the Page:**
+   
     Navigate to the URL where you deployed the files to view the update log page.
 
 ## Dependencies
 
-- [Layui](https://www.layui.com/) - For UI components and layout.
-- [Montserrat Font](https://fonts.google.com/specimen/Montserrat) - For typography.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- [Layui](https://www.layui.com/) - For UI components and layout
+- [Montserrat Font](https://fonts.google.com/specimen/Montserrat) - For typography
 
 ## Contact
 
-For any questions or suggestions, please reach out to [admin@i4.gs] or open an issue on the [GitHub repository](https://github.com/i4GS/VersionUpdatePage).
+For any questions or suggestions, please reach out to admin@i4.gs or open an issue on this [GitHub Repository](https://github.com/i4GS/VersionUpdatePage).
 
