@@ -17,11 +17,41 @@ This project features a clean and stylish update log page. It leverages the Layu
 ## Usage
 
 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/i4.GS/VersionUpdatePage.git
+    ```bash
+    git clone https://github.com/yourusername/version-update-log.git
+    ```
 
 2. **Navigate to the Project Directory:**
-   ```bash
-   cd version-update-log
-3. **Open index.html in Your Browser:**
-   You can open index.html directly in your web browser to view the update log page.
+    ```bash
+    cd version-update-log
+    ```
+
+3. **Open `index.html` in Your Browser:**
+    You can open `index.html` directly in your web browser to view the update log page.
+
+## Deployment
+
+To deploy this project:
+
+1. **Prepare Your Hosting Environment:**
+    Ensure you have access to a web hosting service or a local server setup.
+
+2. **Upload Files:**
+    Upload `index.html` and `style.css` to your web server.
+
+3. **Access the Page:**
+    Navigate to the URL where you deployed the files to view the update log page.
+
+## Dependencies
+
+- [Layui](https://www.layui.com/) - For UI components and layout.
+- [Montserrat Font](https://fonts.google.com/specimen/Montserrat) - For typography.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or suggestions, please reach out to [admin@i4.gs] or open an issue on the [GitHub repository](https://github.com/i4GS/VersionUpdatePage).
+
